@@ -5,8 +5,6 @@ author = "Theo Paris"
 description = "NCurses wrapper for nim"
 license = "GPL-3.0-or-later"
 srcDir = "src"
-bin = @["nimui"]
-binDir = "bin"
 
 # Dependencies
 
